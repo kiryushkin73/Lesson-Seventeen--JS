@@ -1,0 +1,23 @@
+{
+  "name": "Lesson__Ten--JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiryushkin73/Lesson__Ten--JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiryushkin73/Lesson__Ten--JS/issues"
+  },
+  "homepage": "https://github.com/kiryushkin73/Lesson__Ten--JS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
